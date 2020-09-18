@@ -1,0 +1,27 @@
+body {
+	
+	font-family:sans-serif;
+	background-color:#d7f5ee;
+
+}
+
+h1 {
+	
+	background-color:#184A45;
+	padding:50px;
+	color:white;
+	
+}
+
+h3 {
+	
+	background-color:#9ED9CC;
+	
+}
+
+a {
+	
+	text-decoration:none;
+	color:black;
+	
+}
